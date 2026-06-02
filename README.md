@@ -1,4 +1,4 @@
-# My Perfect Blog
+# Perfect Blog
 现代化个人博客项目。
 
 ## 技术栈
