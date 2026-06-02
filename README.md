@@ -8,4 +8,4 @@
 - 其他：Docker, Nginx, Git
 
 ## 当前阶段
-项目初始化，完成 Git 仓库搭建。
+完成 Git 仓库搭建，并成功推送到 GitHub。
